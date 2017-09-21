@@ -1,0 +1,15 @@
+{
+"name": "elyobo/wp-login-nonce",
+"type": "wordpress-plugin",
+"homepage": "https://github.com/elyobo/wp-login-nonce",
+"license": "GPLv2 or later",
+"description": "Adds a nonce to the login form",
+"keywords": [
+"plugin",
+"wordpress",
+"wp-login-nonce"
+],
+"require": {
+"composer/installers": "~1.2.0"
+}
+}
